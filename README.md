@@ -14,7 +14,8 @@ Naive Oversampling:
 ![Oversampling](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/NaiveOversampling.png)
 
 SMOTE Oversampling:
-https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/SMOTEOversampling.png
+
+![Oversampling](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/SMOTEOversampling.png)
 
 Undersampling:
 https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Undersampling.png
