@@ -10,7 +10,8 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 Summary:
 
 Naive Oversampling:
-!(https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/NaiveOversampling.png)
+
+![Oversampling](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/NaiveOversampling.png)
 
 SMOTE Oversampling:
 https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/SMOTEOversampling.png
