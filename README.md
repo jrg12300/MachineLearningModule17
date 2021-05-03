@@ -31,7 +31,7 @@ Balanced Random Forest Classifier:
 
 Easy Ensemble AdaBoost Classifier:
 
-[EEABC](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Ensemble.png)
+![EEABC](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Ensemble.png)
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
