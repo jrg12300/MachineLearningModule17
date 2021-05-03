@@ -18,16 +18,20 @@ SMOTE Oversampling:
 ![Oversampling](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/SMOTEOversampling.png)
 
 Undersampling:
-https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Undersampling.png
+
+![Undersampling](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Undersampling.png)
 
 Combination (SMOTEENN) Sampling:
-https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Combo.png
+
+![SMOTEENN](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Combo.png)
 
 Balanced Random Forest Classifier:
-https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/BalancedRandomForestClassifier.png
 
-Easy Ensemble AdaBoost Classifier:d
-https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Ensemble.png
+![BRFC](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/BalancedRandomForestClassifier.png)
+
+Easy Ensemble AdaBoost Classifier:
+
+[EEABC](https://github.com/jrg12300/MachineLearningModule17/blob/main/Module_17_Challenge/Ensemble.png)
 
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
